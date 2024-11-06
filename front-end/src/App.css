@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    margin: 0;              /* Remove default margin */
+    overflow: hidden;       /* Prevent scrolling */
+    height: 100vh;         /* Set body height to 100% of viewport height */
+  }
